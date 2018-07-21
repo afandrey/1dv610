@@ -1,5 +1,5 @@
 # PHP-Login
 
-Login using these credentials:
-Username: Admin
-Password: Password
+Login using these credentials:   
+Username: Admin   
+Password: Password   
